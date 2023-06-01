@@ -3,11 +3,11 @@ import ubclogo from '../assets/ubclogo.png'
 
 const Education = () => {
     return (
-        <div className='w-full bg-gradient-to-b from-[#425995] to-[#779cfa] py-16 px-4'>
+        <div id='education' className='w-full bg-gradient-to-b from-[#425995] to-[#779cfa] py-16 px-4'>
             <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
                 <img className='w-[500px] mx-auto my-4 px-16 py-8' src={ubclogo} alt='/'/>
                 <div classnName='flex flex-col justify-center'>
-                    <p id='education' className='text-[#ff8a00] font-bold text-xl'>University of British Columbia</p>
+                    <p className='text-[#ff8a00] font-bold text-xl'>University of British Columbia</p>
                     <h1 className='text-[#222222] md:text-4xl sm:text-3xl text-2xl font-bold py-2'> BSc Computer Science and Software Engineering 2020 - 2025</h1>
                     <p className='text-[#222222] mt-8 font-medium'> I am entering my third year of the program. In addition to majoring in computer science, I am part of the software engineering stream
                        that allows qualified students to take additonal specified software engineering courses to gain a deeper understanding of software development. 
