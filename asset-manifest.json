@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcf30dab.css",
+    "main.js": "/static/js/main.deddde28.js",
+    "static/media/wolf.PNG": "/static/media/wolf.518371dd58e81a06007f.PNG",
+    "static/media/plane.PNG": "/static/media/plane.a9d5df010b30246b2f22.PNG",
+    "static/media/eye.PNG": "/static/media/eye.4801df3b56728e3458dd.PNG",
+    "static/media/selfportrait.PNG": "/static/media/selfportrait.4a233a016a144833bf73.PNG",
+    "static/media/lion.PNG": "/static/media/lion.36ecf5b674ec6f0f40d0.PNG",
+    "static/media/nightplants2.PNG": "/static/media/nightplants2.18205e5b02e0dc29aef1.PNG",
+    "static/media/dayplants1.PNG": "/static/media/dayplants1.01c2166df9b8171671a0.PNG",
+    "static/media/model.PNG": "/static/media/model.c996650441303fdc81bd.PNG",
+    "static/media/nightplants1.PNG": "/static/media/nightplants1.f1bc975ade3d96dfbaf8.PNG",
+    "static/media/dayplants3.PNG": "/static/media/dayplants3.9ab6dd20fc2a2e06ec75.PNG",
+    "static/media/dayplants2.PNG": "/static/media/dayplants2.46c464385ff581f79fa1.PNG",
+    "static/media/dayplants5.PNG": "/static/media/dayplants5.223b54f41dc71ea9eab3.PNG",
+    "static/media/ubclogo.png": "/static/media/ubclogo.7dd0dbf66296753c6955.png",
+    "index.html": "/index.html",
+    "main.fcf30dab.css.map": "/static/css/main.fcf30dab.css.map",
+    "main.deddde28.js.map": "/static/js/main.deddde28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf30dab.css",
+    "static/js/main.deddde28.js"
+  ]
+}
